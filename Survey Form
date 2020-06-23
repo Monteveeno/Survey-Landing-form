@@ -3,7 +3,6 @@
   </head> 
 
 <body>
-<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
 <h1 id='title'>Best Album</h1>
   <p id="description">
     This web survey is to see which album was listened to the most and what inspired you to listen to it
